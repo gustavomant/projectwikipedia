@@ -1,0 +1,14 @@
+{
+  "name": "projectwikipedia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-stringify": "^6.5.1",
+    "fast-csv": "^5.0.1",
+    "fuse.js": "^7.0.0",
+    "sax": "^1.4.1",
+    "sqlite3": "^5.1.7"
+  }
+}
