@@ -1,4 +1,0 @@
-rapidfuzz
-tqdm
-pandas
-pyarrow
